@@ -35,20 +35,20 @@ class English implements LanguageInterface
     ];
 
     const SALUTATIONS = [
-        'dr' => 'Dr.',
-        'fr' => 'Fr.',
+        'dr' => 'Dr',
+        'fr' => 'Fr',
         'madam' => 'Madam',
-        'master' => 'Mr.',
+        'master' => 'Mr',
         'miss' => 'Miss',
-        'mister' => 'Mr.',
-        'mr' => 'Mr.',
-        'mrs' => 'Mrs.',
-        'ms' => 'Ms.',
-        'mx' => 'Mx.',
-        'rev' => 'Rev.',
-        'revd' => 'Revd.',
+        'mister' => 'Mr',
+        'mr' => 'Mr',
+        'mrs' => 'Mrs',
+        'ms' => 'Ms',
+        'mx' => 'Mx',
+        'rev' => 'Rev',
+        'revd' => 'Revd',
         'sir' => 'Sir',
-        'prof' => 'Prof.',
+        'prof' => 'Prof',
         'his honour' => 'His Honour',
         'her honour' => 'Her Honour'
     ];
