@@ -36,6 +36,7 @@ class English implements LanguageInterface
 
     const SALUTATIONS = [
         'dr' => 'Dr',
+        'doctor' => 'Dr',
         'fr' => 'Fr',
         'madam' => 'Madam',
         'master' => 'Mr',
@@ -49,6 +50,7 @@ class English implements LanguageInterface
         'revd' => 'Revd',
         'sir' => 'Sir',
         'prof' => 'Prof',
+        'professor' => 'Prof',
         'his honour' => 'His Honour',
         'her honour' => 'Her Honour'
     ];
